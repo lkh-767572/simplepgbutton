@@ -19,5 +19,5 @@ A simple Pygame button module to create an customizale button.
 ![Example1](pictures/ex1.png)
 
 - test = SimplePgButton("test2", (width/2-b_width/2, height/2-b_height/2), b_width, b_height, <strong>border_rad=30</strong>, <strong>elevation=5</strong>)
-- 
+
 ![Example2](pictures/ex2.png)
